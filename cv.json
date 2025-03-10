@@ -1,0 +1,260 @@
+{
+  "basics": {
+    "name": "Baïsse Chloé",
+    "label": "Developpeuse Web",
+    "image": "/me-avatar.jpg",
+    "email": "baissechloe@gmail.com",
+    "phone": "+262 693430937",
+    "url": "",
+    "summary": "Passionnée par le développement web, j’ai acquis une solide base technique à travers ma formation en développement web et web mobile, où j’ai réalisé plusieurs projets concrets en front-end et back-end. Mon expérience en tant qu’assistante de magasin m’a également sensibilisée à l’importance de l’expérience utilisateur et de la satisfaction client. Curieuse et créative, je considère chaque projet comme une opportunité d’apprentissage et d’innovation. Toujours à la recherche de nouveaux défis, j’aime explorer de nouvelles technologies et transformer des idées en expériences interactives.",
+    "theme": "blue",
+    "location": {
+      "address": "Rue du Lycée, résidence les Sirènes 2",
+      "postalCode": "97425",
+      "city": "Les Avirons",
+      "countryCode": "RUN",
+      "region": "Ile de la Réunion"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "chloé-baïsse",
+        "url": "https://www.linkedin.com/in/chlo%C3%A9-ba%C3%AFsse/"
+      },
+
+      {
+        "network": "GitHub",
+        "username": "chloebaisse1",
+        "url": "https://github.com/chloebaisse1"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "STUDI",
+      "position": "Formation Dev web & web mobile",
+      "location_type": "Distanciel",
+      "location": "Pérols 34470",
+      "url": "https://www.studi.com/fr",
+      "startDate": "2023",
+      "endDate": "2025",
+      "responsibilities": [
+        "Conception et gestion de bases de données en utilisant des systèmes de gestion de bases de données comme MySQL ou MongoDB.",
+        "Développement d'applications web réactives et responsives utilisant des frameworks modernes comme React ou Vue.js.",
+        "Maîtrise des langages de programmation web tels que HTML, CSS et JavaScript.",
+        "Intégration de services web et d'API pour enrichir les fonctionnalités des applications web.",
+        "Utilisation de Git pour le contrôle de version et la collaboration sur des projets de développement.",
+        "Application des bonnes pratiques de référencement (SEO) pour optimiser la visibilité des sites web.",
+        " Mise en place de tests unitaires et intégration continue pour assurer la qualité du code.",
+        "Formation à la sécurité web pour protéger les applications contre les attaques et les vulnérabilités.",
+        "Développement d'applications web avec des principes d'accessibilité pour garantir l'inclusivité des utilisateurs."
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "SQL",
+        "NoSQL",
+        "Javascript",
+        "Symfony",
+        "Angular"
+      ]
+    },
+    {
+      "name": "ALDI MARCHE SARL",
+      "position": "Assistante de Magasin",
+      "location": "Bouillargues (30230)",
+      "url": "https://techstartup.com",
+      "startDate": "2021",
+      "endDate": "2023",
+      "responsibilities": [
+        "Accueil et conseil des clients pour assurer une expérience d’achat optimale",
+        "Gestion des stocks, mise en rayon et étiquetage des produits",
+        "Encaissement et gestion des transactions en caisse",
+        "Organisation et maintien d’un espace de vente attractif",
+        "Participation aux inventaires et gestion des réassorts"
+      ],
+      "skills": [
+        "Rigeur & autonomie",
+        "Polyvalence & adaptabilité",
+        "sens du service & écoute",
+        "Réactivité & gestion du stress",
+        "Esprit d'équipe"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Lycée le Roc Blanc",
+      "url": "https://www.lycee-rocblanc-ganges.fr/",
+      "area": "Service aux personnes et au territoire",
+      "studyType": "Bac Professionnel",
+      "startDate": "2013",
+      "endDate": "2015",
+      "score": "14/20"
+    },
+    {
+      "institution": "Lycée le Roc Blanc",
+      "url": "https://www.lycee-rocblanc-ganges.fr/",
+      "area": "Service aux personnes et au territoire",
+      "studyType": "BEP",
+      "startDate": "2013",
+      "endDate": "2014",
+      "score": "14/20"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Developpeuse web et web mobile",
+      "date": "2023-2025",
+      "issuer": "STUDI",
+      "url": "https://www.studi.com/fr"
+    },
+    {
+      "name": "BAC Professionnel",
+      "date": "2013-2015",
+      "issuer": "Lycée le Roc Blanc",
+      "url": "https://www.lycee-rocblanc-ganges.fr/"
+    },
+    {
+      "name": "BEP",
+      "date": "2013-2014",
+      "issuer": "Lycée le Roc Blanc",
+      "url": "https://www.lycee-rocblanc-ganges.fr/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Beginner",
+      "keywords": ["Design", "UI"]
+    },
+
+    {
+      "name": "HTML",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Beginner",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Beginner",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Beginner",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Anglais",
+      "fluency": "Debutant"
+    },
+    {
+      "language": "Français",
+      "fluency": "Natale"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": ["AI", "Blockchain"]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Sass-Foxart",
+      "isActive": true,
+      "description": "",
+      "highlights": ["Built with React and Tailwind CSS"],
+      "url": "https://foxart-1d061.web.app/",
+      "github": "https://github.com"
+    },
+    {
+      "name": "Application Meteo",
+      "isActive": true,
+      "description": "Application Météo en temps reel.",
+      "highlights": [
+        "Built with JavaScript and OpenWeatherMap API",
+        "Responsive design"
+      ],
+      "url": "https://app-meteo-2e0cc.web.app/"
+    },
+    {
+      "name": "Travel-App",
+      "isActive": true,
+      "description": "Landing page site de voyage",
+      "highlights": ["Built with HTML and CSS"],
+      "url": "https://travel-app-ac17f.web.app/",
+      "github": "https://github.com"
+    },
+    {
+      "name": "E-commerce Site",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    }
+  ]
+}
