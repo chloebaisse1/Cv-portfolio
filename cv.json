@@ -62,7 +62,7 @@
     {
       "name": "ALDI MARCHE SARL",
       "position": "Assistante de Magasin",
-      "location": "Bouillargues (30230)",
+      "location": "Bouillargues 30230",
       "url": "https://techstartup.com",
       "startDate": "2021",
       "endDate": "2023",
@@ -223,15 +223,14 @@
     {
       "name": "Sass-Foxart",
       "isActive": true,
-      "description": "",
+      "description": "Exemple de Sass",
       "highlights": ["Built with React and Tailwind CSS"],
-      "url": "https://foxart-1d061.web.app/",
-      "github": "https://github.com"
+      "url": "https://foxart-1d061.web.app/"
     },
     {
       "name": "Application Meteo",
       "isActive": true,
-      "description": "Application Météo en temps reel.",
+      "description": "Application Météo en temps reel",
       "highlights": [
         "Built with JavaScript and OpenWeatherMap API",
         "Responsive design"
@@ -243,8 +242,34 @@
       "isActive": true,
       "description": "Landing page site de voyage",
       "highlights": ["Built with HTML and CSS"],
-      "url": "https://travel-app-ac17f.web.app/",
-      "github": "https://github.com"
+      "url": "https://travel-app-ac17f.web.app/"
+    },
+    {
+      "name": "FacPro",
+      "isActive": true,
+      "description": "Application d'édition de facture en ligne",
+      "highlights": [
+        "Built with Next.js, TailwindCss, Clerk, Prisma and Supabase",
+        "Responsive design"
+      ],
+      "url": " https://fac-pro.vercel.app/"
+    },
+    {
+      "name": "Sass-tickets",
+      "isActive": true,
+      "description": "Gestion de tickets",
+      "highlights": [
+        "Built with Next.js, TailwindCss, Clerk and Prisma",
+        "Responsive design"
+      ],
+      "url": "https://saa-s-tickets.vercel.app/"
+    },
+    {
+      "name": "CV-Builder",
+      "isActive": true,
+      "description": "Creation de CV en ligne",
+      "highlights": ["Built with Next.js and TailwindCss", "Responsive design"],
+      "url": "https://cvbuilder-kohl.vercel.app/"
     }
   ]
 }
