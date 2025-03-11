@@ -21,24 +21,21 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: "pnpm"
-
-      - name: Install pnpm
-        run: npm install -g pnpm
+          cache: "npm"
 
       - name: Cache dependencies
         uses: actions/cache@v3
         with:
-          path: ~/.pnpm-store
-          key: node-cache-${{ runner.os }}-pnpm-${{ hashFiles('pnpm-lock.yaml') }}
+          path: ~/.npm
+          key: node-cache-${{ runner.os }}-npm-${{ hashFiles('package-lock.json') }}
           restore-keys: |
-            node-cache-${{ runner.os }}-pnpm-
+            node-cache-${{ runner.os }}-npm-
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        run: npm ci
 
       - name: Build the project
-        run: pnpm build
+        run: npm run build
 
   deploy:
     needs: build
