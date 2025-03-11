@@ -33,6 +33,8 @@
     {
       "name": "STUDI",
       "position": "Formation Dev web & web mobile",
+      "summary": "",
+      "achievements": "",
       "location_type": "Distanciel",
       "location": "Pérols 34470",
       "url": "https://www.studi.com/fr",
@@ -62,6 +64,8 @@
     {
       "name": "ALDI MARCHE SARL",
       "position": "Assistante de Magasin",
+      "summary": "",
+      "achievements": "",
       "location": "Bouillargues 30230",
       "url": "https://techstartup.com",
       "startDate": "2021",
@@ -225,7 +229,8 @@
       "isActive": true,
       "description": "Exemple de Sass",
       "highlights": ["Built with React and Tailwind CSS"],
-      "url": "https://foxart-1d061.web.app/"
+      "url": "https://foxart-1d061.web.app/",
+      "github": "https://github.com/chloebaisse1/Saas-React.js"
     },
     {
       "name": "Application Meteo",
@@ -235,14 +240,16 @@
         "Built with JavaScript and OpenWeatherMap API",
         "Responsive design"
       ],
-      "url": "https://app-meteo-2e0cc.web.app/"
+      "url": "https://app-meteo-2e0cc.web.app/",
+      "github": ""
     },
     {
       "name": "Travel-App",
       "isActive": true,
       "description": "Landing page site de voyage",
       "highlights": ["Built with HTML and CSS"],
-      "url": "https://travel-app-ac17f.web.app/"
+      "url": "https://travel-app-ac17f.web.app/",
+      "github": "https://github.com/chloebaisse1/Travel-Site"
     },
     {
       "name": "FacPro",
@@ -252,7 +259,8 @@
         "Built with Next.js, TailwindCss, Clerk, Prisma and Supabase",
         "Responsive design"
       ],
-      "url": " https://fac-pro.vercel.app/"
+      "url": " https://fac-pro.vercel.app/",
+      "github": "https://github.com/chloebaisse1/FacPro"
     },
     {
       "name": "Sass-tickets",
@@ -262,14 +270,16 @@
         "Built with Next.js, TailwindCss, Clerk and Prisma",
         "Responsive design"
       ],
-      "url": "https://saa-s-tickets.vercel.app/"
+      "url": "https://saa-s-tickets.vercel.app/",
+      "github": "https://github.com/chloebaisse1/SaaS-tickets"
     },
     {
       "name": "CV-Builder",
       "isActive": true,
       "description": "Creation de CV en ligne",
       "highlights": ["Built with Next.js and TailwindCss", "Responsive design"],
-      "url": "https://cvbuilder-kohl.vercel.app/"
+      "url": "https://cvbuilder-kohl.vercel.app/",
+      "github": "https://github.com/chloebaisse1/cvbuilder"
     }
   ]
 }
