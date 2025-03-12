@@ -225,6 +225,15 @@
 
   "projects": [
     {
+      "name": "Candice-Coaching",
+      "isActive": true,
+      "description": "Site web de coaching",
+      "highlights": ["Wordpress"],
+      "url": "https://candice-coaching.com/",
+      "github": ""
+    },
+
+    {
       "name": "Sass-Foxart",
       "isActive": true,
       "description": "Exemple de Sass",
