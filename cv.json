@@ -289,6 +289,14 @@
       "highlights": ["Built with Next.js and TailwindCss", "Responsive design"],
       "url": "https://cvbuilder-kohl.vercel.app/",
       "github": "https://github.com/chloebaisse1/cvbuilder"
+    },
+    {
+      "name": "To-Do-List",
+      "isActive": true,
+      "description": "Création d'une to-do-List avec React",
+      "highlights": ["Built with Vite.js and TailwindCss", "Responsive design"],
+      "url": "https://to-do-list-seven-beta-30.vercel.app/",
+      "github": "https://github.com/chloebaisse1/task-flow"
     }
   ]
 }
